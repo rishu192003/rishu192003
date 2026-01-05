@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit</h1>
 <h3 align="center">A passionate Software Engineer Building scalable systems from code to cloud .</h3>
 
-- 🔭 I’m currently working on **StockX**
+- 🔭 I’m currently working on **StockX** and **ExpenseIQ**
 
 - 🌱 I’m currently learning **Best Practices for Building Scalable Systems**
 
